@@ -1,0 +1,320 @@
+1
+00:00:00,000 --> 00:00:02,600
+Hola, buenos días.
+
+2
+00:00:02,720 --> 00:00:03,100
+Buenos días.
+
+3
+00:00:04,540 --> 00:00:05,420
+Una consulta.
+
+4
+00:00:05,510 --> 00:00:07,780
+Nosotros somos dos estudiantes de la
+Universidad de La Sabana,
+
+5
+00:00:07,980 --> 00:00:09,580
+ganadores del reto de Bienestar 360,
+
+6
+00:00:09,820 --> 00:00:12,460
+y estamos en un proyecto de investigación
+de mercado,
+
+7
+00:00:12,590 --> 00:00:14,280
+más que nada ahorita en el sector de autop
+artes.
+
+8
+00:00:14,780 --> 00:00:17,340
+Sobre todo es hacer unas preguntas de,
+digamos,
+
+9
+00:00:17,540 --> 00:00:18,980
+cómo manejan ustedes el inventario,
+
+10
+00:00:19,090 --> 00:00:22,900
+en el sentido de si coincide lo virtual o
+lo que tengan registrado,
+
+11
+00:00:23,460 --> 00:00:24,740
+cuando hacen conteos físicos.
+
+12
+00:00:24,850 --> 00:00:27,820
+No sé si tiene cinco minutos ahí para
+dialogar.
+
+13
+00:00:27,850 --> 00:00:36,050
+La información por encima sí, nada delic
+ado, si manejamos un sistema así que nos
+
+14
+00:00:36,060 --> 00:00:43,850
+descuente a medida que vamos facturando
+alguna cosita y a medida que compramos a
+
+15
+00:00:43,850 --> 00:00:45,820
+un proveedor se hace como un ingreso.
+
+16
+00:00:48,820 --> 00:00:52,810
+O sea, cuando ustedes hacen como un pedido
+les llegan acá como un cambio.
+
+17
+00:00:52,850 --> 00:00:56,140
+Sí, claro, aquí se hace pedir más o menos
+para dos o tres días después,
+
+18
+00:00:56,290 --> 00:00:59,540
+porque los problemas, la gran mayoría son
+de fuera de Bogotá,
+
+19
+00:00:59,640 --> 00:01:02,160
+o a veces lo que se importa ya
+directamente.
+
+20
+00:01:02,600 --> 00:01:04,640
+Oh, ok. Y ahí ya...
+
+21
+00:01:04,670 --> 00:01:07,040
+¿Qué herramienta utilizan para llevar como
+ese conteo?
+
+22
+00:01:07,240 --> 00:01:11,360
+El programa que nosotros manejamos se
+llama Censys.
+
+23
+00:01:11,800 --> 00:01:12,400
+Censys.
+
+24
+00:01:13,170 --> 00:01:16,380
+Entonces, se le hace el ingreso a la merc
+ancía,
+
+25
+00:01:16,740 --> 00:01:19,830
+y pues se divide como en varias bodegas,
+se divide a las bodegas que se van a
+
+26
+00:01:19,830 --> 00:01:20,380
+llevar.
+
+27
+00:01:20,410 --> 00:01:24,420
+Y si les consigue, digamos, lo que ustedes
+compran con lo que ustedes tienen
+
+28
+00:01:24,420 --> 00:01:24,980
+realmente.
+
+29
+00:01:24,980 --> 00:01:27,600
+Sí, claro, tiene que coincidir, o si no...
+
+30
+00:01:27,630 --> 00:01:31,670
+Pues hay ciertas cositas que no descuadres
+en el inventario, pero por lo regular es
+
+31
+00:01:31,680 --> 00:01:32,160
+...
+
+32
+00:01:32,160 --> 00:01:32,720
+Siempre consigue.
+
+33
+00:01:32,720 --> 00:01:34,380
+Lo que figura es lo que tienen.
+
+34
+00:01:34,720 --> 00:01:38,710
+¿Y qué hacen cuando a alguno cuadra les
+toca contar todo físico?
+
+35
+00:01:38,840 --> 00:01:40,380
+Sí, claro, mirar cámaras.
+
+36
+00:01:41,320 --> 00:01:42,060
+Contado físico.
+
+37
+00:01:42,110 --> 00:01:46,320
+Digamos, el jefe tiene de pronto una toler
+ancia de cierta vaina que sea pequeñito,
+
+38
+00:01:46,320 --> 00:01:47,060
+no costoso.
+
+39
+00:01:47,060 --> 00:01:47,740
+Un porcentaje.
+
+40
+00:01:47,770 --> 00:01:55,310
+No sé cuánto el maneje, pero ya hay cosas
+que venguen algo así, hay que revisar cá
+
+41
+00:01:55,310 --> 00:02:01,000
+maras y hay que hacer el conteo físico y
+se compara con el...
+
+42
+00:02:01,030 --> 00:02:06,200
+Cuando tienen el pedir les entra, hacen
+conteo físico total, general, de todo lo
+
+43
+00:02:06,200 --> 00:02:06,220
+que...
+
+44
+00:02:06,250 --> 00:02:11,950
+Pero a veces les recibe la caja en buena
+fe, de que esté todo, porque mandan una
+
+45
+00:02:11,950 --> 00:02:16,970
+pieza, ya si internamente hay algún
+problema, pues se habla directamente de
+
+46
+00:02:16,980 --> 00:02:17,720
+una prueba de ingresión,
+
+47
+00:02:17,720 --> 00:02:22,120
+Y ahí lo asume ese proveedor.
+
+48
+00:02:22,150 --> 00:02:28,930
+Lo asume el proveedor, pero por lo regular
+, esa compañía siempre llega lo que se pas
+
+49
+00:02:28,930 --> 00:02:29,720
+ura.
+
+50
+00:02:29,750 --> 00:02:34,280
+¿Ustedes saben cuáles son como los que más
+les venden? ¿A talleres, personas aquí en
+
+51
+00:02:34,280 --> 00:02:34,720
+el demostrador?
+
+52
+00:02:34,750 --> 00:02:38,710
+Aquí es digamos 50-50 talleres, cliente
+mostrador que llega.
+
+53
+00:02:38,750 --> 00:02:43,760
+Muchos por el este van y dejan el carro en
+el taller y se supone que ellos pudimos a
+
+54
+00:02:43,770 --> 00:02:44,720
+buscar el mejor.
+
+55
+00:02:44,720 --> 00:02:48,200
+Ok. Ustedes tienen varias CDs, ¿cierto?
+
+56
+00:02:48,480 --> 00:02:48,700
+Sí.
+
+57
+00:02:49,380 --> 00:02:50,600
+O sea, está esta y cuál más.
+
+58
+00:02:50,630 --> 00:02:54,980
+Y aquí en el 7 hay otra. Bueno, hay dos
+más y hay otra en el 7.
+
+59
+00:02:55,760 --> 00:02:58,760
+Ok. Muchísimas gracias. ¿Cómo es su nombre
+?
+
+60
+00:02:58,920 --> 00:02:59,340
+Bueno, Juan.
+
+61
+00:02:59,640 --> 00:02:59,960
+Juan.
+
+62
+00:03:00,160 --> 00:03:01,380
+Juan, muchas gracias por tu tiempo.
+
+63
+00:03:01,450 --> 00:03:05,270
+Una pregunta de pronto. Si la universidad
+nos está apoyando, ¿le podríamos enviar un
+
+64
+00:03:05,270 --> 00:03:07,760
+correo a su jefe si de pronto tuviera un
+espacio libre?
+
+65
+00:03:08,140 --> 00:03:12,660
+No, con lo que pasa. Hasta ahí sí creo que
+es más delicado que el correo.
+
+66
+00:03:12,690 --> 00:03:17,700
+Hay una tarjeta donde nosotros los podemos
+contactar, o un correo electrónico.
+
+67
+00:03:17,700 --> 00:03:19,640
+Sí, la tarjeta está aquí.
+
+68
+00:03:19,640 --> 00:03:21,640
+¿Y por quién preguntamos o escribimos?
+
+69
+00:03:21,670 --> 00:03:25,240
+No, por Juan o Ángel, el que está ahí, el
+dueño se llama Andrés González.
+
+70
+00:03:25,240 --> 00:03:26,780
+Andrés González, vale, vale.
+
+71
+00:03:26,780 --> 00:03:30,320
+Listo. Muchas gracias, hasta luego.
+

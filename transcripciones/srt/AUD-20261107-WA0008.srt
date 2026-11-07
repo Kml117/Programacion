@@ -1,0 +1,689 @@
+1
+00:00:00,030 --> 00:00:02,040
+¿Estás haciendo una investigación para
+este sector?
+
+2
+00:00:03,760 --> 00:00:06,360
+Sí, creo que tiene que ser algo que no
+vamos a tener.
+
+3
+00:00:06,360 --> 00:00:09,840
+Bueno, me interesa mucho tu opinión.
+
+4
+00:00:10,320 --> 00:00:13,560
+Bueno, mi nombre es Camilo Córdoba, me
+presento yo.
+
+5
+00:00:13,880 --> 00:00:17,040
+Y nos preguntábamos qué software utilizan
+para el manejo de inventario.
+
+6
+00:00:17,820 --> 00:00:19,260
+El software, sí.
+
+7
+00:00:19,440 --> 00:00:20,420
+¿O alguna herramienta?
+
+8
+00:00:20,620 --> 00:00:22,060
+El manejo de inventario, sí.
+
+9
+00:00:22,660 --> 00:00:23,240
+Sí, ok.
+
+10
+00:00:23,940 --> 00:00:26,560
+¿Y hay algún encargado de inventario o
+eres tú?
+
+11
+00:00:26,700 --> 00:00:28,760
+No, yo no, es que como yo llego en Córdoba
+.
+
+12
+00:00:28,760 --> 00:00:30,280
+Yo ahora estoy aprendiendo el tema.
+
+13
+00:00:30,440 --> 00:00:31,990
+Esa es la señora Cristina, ya la doña
+Cristina.
+
+14
+00:00:32,000 --> 00:00:33,440
+Ah, ok. ¿La podemos?
+
+15
+00:00:33,600 --> 00:00:33,960
+Sí, claro.
+
+16
+00:00:34,520 --> 00:00:34,880
+Gracias.
+
+17
+00:00:35,680 --> 00:00:35,960
+Hola.
+
+18
+00:00:37,060 --> 00:00:38,520
+Muy bien, te nos presentamos.
+
+19
+00:00:38,680 --> 00:00:40,380
+Somos dos estudiantes de la Universidad de
+La Sabana,
+
+20
+00:00:40,500 --> 00:00:42,100
+soy Marco Santoyo, Camelo, Córdoba.
+
+21
+00:00:42,480 --> 00:00:43,980
+Y estamos en un proyecto de investigación.
+
+22
+00:00:44,240 --> 00:00:45,380
+No sé si tiene cinco minutos.
+
+23
+00:00:45,720 --> 00:00:46,120
+¿Qué nos presenta?
+
+24
+00:00:46,120 --> 00:00:47,120
+¿Me presentas en seguida?
+
+25
+00:00:47,500 --> 00:00:47,980
+Sí, es.
+
+26
+00:00:48,520 --> 00:00:49,320
+¿Me presentas en seguida?
+
+27
+00:00:50,220 --> 00:00:50,580
+Ah.
+
+28
+00:00:51,080 --> 00:00:51,400
+¿Qué pregunta?
+
+29
+00:00:52,000 --> 00:00:52,660
+Sí, bueno.
+
+30
+00:00:52,860 --> 00:00:53,260
+Esperemos.
+
+31
+00:00:53,480 --> 00:00:56,540
+Y nos preguntamos qué software utilicen
+para el tema inventario.
+
+32
+00:00:57,100 --> 00:00:57,460
+Sí.
+
+33
+00:00:57,980 --> 00:00:58,400
+Sí, sí.
+
+34
+00:00:58,790 --> 00:01:03,260
+¿Y hay algún encargado de inventario que
+usted diseña?
+
+35
+00:01:03,260 --> 00:01:04,260
+Yo.
+
+36
+00:01:04,260 --> 00:01:05,260
+¿Y algún encargado?
+
+37
+00:01:05,260 --> 00:01:06,760
+Sí, básicamente todo.
+
+38
+00:01:06,760 --> 00:01:07,760
+Ok.
+
+39
+00:01:07,760 --> 00:01:09,760
+¿Y cómo vas con eso?
+
+40
+00:01:09,790 --> 00:01:12,260
+Por seguro que nos acabas un poquito de
+descaresada.
+
+41
+00:01:12,290 --> 00:01:17,600
+Porque nosotros estamos investigando de
+que encontramos que está fallando la conci
+
+42
+00:01:17,600 --> 00:01:20,260
+encia entre el inventario virtual y el
+inventario en físico.
+
+43
+00:01:20,260 --> 00:01:21,260
+Siempre.
+
+44
+00:01:21,260 --> 00:01:22,260
+Siempre.
+
+45
+00:01:22,290 --> 00:01:26,610
+El tema con este tipo de inventarios, por
+ejemplo, en el caso de la torniquería, que
+
+46
+00:01:26,610 --> 00:01:32,740
+son tornillos muy chiquititos, exacto, o
+sea, yo pido 5.000 tornillos, 20.000 torn
+
+47
+00:01:32,740 --> 00:01:35,180
+illos, una caja, una caja, puede ser así.
+
+48
+00:01:36,920 --> 00:01:40,220
+Ustedes me imaginan contando esos 5.000
+tornillos en el que se está manejando.
+
+49
+00:01:44,500 --> 00:01:46,420
+No, no hay forma de contarlos en físico.
+
+50
+00:01:46,860 --> 00:01:47,760
+¿Se pierden cuántos?
+
+51
+00:01:47,760 --> 00:01:48,620
+Ustedes los cuentan.
+
+52
+00:01:49,300 --> 00:01:51,370
+¿Y si le digo bien? Inclusive más de fís
+ico.
+
+53
+00:01:51,410 --> 00:01:54,260
+¿Pero usted es sin alguien que los cuente
+o...?
+
+54
+00:01:54,260 --> 00:01:58,020
+No, básicamente yo cuento a dos personas,
+
+55
+00:01:58,050 --> 00:02:06,560
+y ya contezando a cuatro o cinco personas
+que hacen más o menos un conteo de lo que
+
+56
+00:02:06,560 --> 00:02:07,940
+tenemos empajado,
+
+57
+00:02:07,940 --> 00:02:10,940
+entonces si hay posibilidad.
+
+58
+00:02:10,970 --> 00:02:14,200
+En el sueldo lazo, pues ten en cuenta que
+el conteo es menor, pues tenemos errores
+
+59
+00:02:14,200 --> 00:02:14,700
+humanos.
+
+60
+00:02:14,700 --> 00:02:20,280
+¿Cuánto representan pérdidas económicas?
+
+61
+00:02:20,310 --> 00:02:27,310
+Es que todo es relativo porque, digamos
+que lo que yo voy a revisar, que tengan p
+
+62
+00:02:27,310 --> 00:02:27,380
+érdidas,
+
+63
+00:02:27,410 --> 00:02:33,910
+lo que yo hago es que lo asumo, que lo que
+yo voy a revisar, lo que yo hago es que lo
+
+64
+00:02:33,920 --> 00:02:35,280
+Pérdidas económicas
+
+65
+00:02:35,280 --> 00:02:37,480
+Es que todo es relativo
+
+66
+00:02:37,510 --> 00:02:41,380
+Todo es relativo porque pues digamos que
+lo que yo voy a revisar
+
+67
+00:02:41,410 --> 00:02:46,320
+Que tengan pérdidas, lo que yo hago es que
+lo asumo en el momento de la venta
+
+68
+00:02:46,350 --> 00:02:49,360
+Ah, le subes al producto para estos ries
+gos
+
+69
+00:02:49,360 --> 00:02:50,900
+Y nivelar ese tipo de cosas
+
+70
+00:02:50,900 --> 00:02:53,880
+¿Y el sistema de seguimiento lo permite?
+
+71
+00:02:54,820 --> 00:02:57,100
+Pues uno lo calcula, uno lo revisa
+
+72
+00:02:57,130 --> 00:03:04,120
+Igual digamos que como la facturación o
+los precios que uno da de acuerdo al sube
+
+73
+00:03:04,120 --> 00:03:06,420
+y baja del precio del momento de la compra
+.
+
+74
+00:03:06,980 --> 00:03:10,200
+Entonces en ese plan estamos todo el
+tiempo, revisando a cómo están los
+
+75
+00:03:10,200 --> 00:03:13,300
+productos, las nuevas compras y ese tipo
+de cosas.
+
+76
+00:03:13,810 --> 00:03:20,520
+Entonces todo se balancea de acuerdo a la
+compra y a la venta del momento.
+
+77
+00:03:20,520 --> 00:03:22,120
+¿Cuánto haces como pedido?
+
+78
+00:03:23,500 --> 00:03:26,560
+Sí, casi que todo lo tiene que ser pedido
+de todo.
+
+79
+00:03:27,130 --> 00:03:30,820
+¿Y ustedes, o sea, dónde hacen el pedido o
+cómo...?
+
+80
+00:03:30,820 --> 00:03:31,720
+No, hay importadores.
+
+81
+00:03:31,840 --> 00:03:35,230
+¿Hay importadores y ellos les mandan a
+ustedes el camión o cómo...?
+
+82
+00:03:35,240 --> 00:03:35,700
+El camión.
+
+83
+00:03:35,980 --> 00:03:36,260
+No sé.
+
+84
+00:03:36,520 --> 00:03:37,620
+¿Es como importación?
+
+85
+00:03:37,650 --> 00:03:41,690
+Sí, no, tal cual, como ustedes hacen un
+pedido en rap, como ustedes hacen un ped
+
+86
+00:03:41,690 --> 00:03:43,440
+ido en cheque, como ustedes hacen...
+
+87
+00:03:43,440 --> 00:03:44,660
+Es exactamente igual.
+
+88
+00:03:44,690 --> 00:03:47,700
+Ah, ok. O sea, ¿qué tan grande es como el
+pedido que llega a diario?
+
+89
+00:03:48,020 --> 00:03:48,760
+No, depende.
+
+90
+00:03:48,980 --> 00:03:50,740
+Depende de lo que les sale a tu camión.
+
+91
+00:03:51,140 --> 00:03:52,600
+¿Sabes de cuánto que te haces un pedido en
+cheque?
+
+92
+00:03:52,840 --> 00:03:53,000
+Sí.
+
+93
+00:03:53,030 --> 00:03:55,720
+O sea, ¿de manesas que te han ganado de
+gym y tenis?
+
+94
+00:03:56,130 --> 00:04:00,040
+Al otro día solo necesitas camisetas, al
+otro día solo viste un boxeo o al otro día
+
+95
+00:04:00,040 --> 00:04:00,860
+solo viste un look.
+
+96
+00:04:01,530 --> 00:04:06,730
+Entonces, es para que te hagas una idea de
+lo que yo te estoy hablando.
+
+97
+00:04:06,770 --> 00:04:10,800
+Sí, y ya con esto te pasa que hay como
+capital inmovilizado, como cosas que se
+
+98
+00:04:10,800 --> 00:04:12,230
+quedan quietas y no se venden.
+
+99
+00:04:12,530 --> 00:04:18,520
+Pero mira que en ferrocaría nunca se va a
+suceder de mala manera.
+
+100
+00:04:19,540 --> 00:04:23,060
+¿Sí? ¿Por qué? Porque, por ejemplo, yo
+puedo tener un tornillo de cuatro por
+
+101
+00:04:23,060 --> 00:04:23,560
+media.
+
+102
+00:04:24,070 --> 00:04:30,100
+a mi se me puede quedar dos años, pero la
+que llega el cliente a los dos años y ya
+
+103
+00:04:30,100 --> 00:04:31,040
+el precio en el mismo
+
+104
+00:04:31,070 --> 00:04:34,310
+ya lo cotizó hasta los de hoy, o sea
+quiere decir que a mi esa mercancía que se
+
+105
+00:04:34,310 --> 00:04:36,040
+me quedó quieta se me capitalizó
+
+106
+00:04:36,070 --> 00:04:40,040
+¿y tu tienes como el costo de cuanto te cu
+esta tenerla almacenada?
+
+107
+00:04:40,070 --> 00:04:45,040
+no, eso si no, es complicado, estoy copi
+ando rapidito
+
+108
+00:04:45,070 --> 00:04:52,040
+¿Y cuáles son como los compradores finales
+más frecuentes que ustedes tienen, como
+
+109
+00:04:52,040 --> 00:04:55,040
+del día a día, carretería de mostrador?
+
+110
+00:04:55,040 --> 00:04:57,040
+Aquí se mueve todo, aquí se mueve todo.
+
+111
+00:04:57,040 --> 00:04:59,040
+¿O ya empresas constructoras?
+
+112
+00:04:59,070 --> 00:05:02,830
+Sí, uno tiene aquí de todito un poquito. T
+iene uno constructoras, tiene clientes fij
+
+113
+00:05:02,830 --> 00:05:06,040
+os, clientes que uno va cultivando, client
+es...
+
+114
+00:05:06,040 --> 00:05:08,200
+Alfredo
+
+115
+00:05:08,200 --> 00:05:19,140
+Yo me imagino que debe ser muy complicado
+
+116
+00:05:19,140 --> 00:05:21,380
+Ah, perfecto, listo
+
+117
+00:05:21,410 --> 00:05:22,860
+Ya lo paso entonces a la policía, ya me
+muevo
+
+118
+00:05:22,860 --> 00:05:24,960
+Bueno, un abrazo
+
+119
+00:05:24,960 --> 00:05:30,320
+Pero pues digamos que en este momento
+
+120
+00:05:30,350 --> 00:05:32,500
+Lo que estamos tratando más de impulsar es
+el mostrado
+
+121
+00:05:32,530 --> 00:05:34,880
+Porque finalmente pues digamos que es la
+plata tranquila
+
+122
+00:05:34,910 --> 00:05:41,440
+¿Y el margen de ganancia es mayor o es
+igual a si sea una empresa?
+
+123
+00:05:42,400 --> 00:05:45,000
+No, todos los costos y todas las ventas
+son variables
+
+124
+00:05:45,000 --> 00:05:46,960
+¿Depende de cada producto?
+
+125
+00:05:47,280 --> 00:05:49,660
+Depende de las necesidades
+
+126
+00:05:49,690 --> 00:05:55,600
+Sí, y ustedes los coben a materiales de
+construcción, salvo por ahora
+
+127
+00:05:55,600 --> 00:05:57,620
+¿Tienen más de esa parte de esta?
+
+128
+00:05:57,820 --> 00:06:00,320
+No, hay de todo, hay industria, hay obras,
+hay hogar
+
+129
+00:06:00,350 --> 00:06:04,860
+No, de la ferre, tienes más de esa parte
+de esta
+
+130
+00:06:04,890 --> 00:06:08,120
+No, tenía otro, pero no se dio para
+mantener las dos.
+
+131
+00:06:10,200 --> 00:06:11,720
+Ya no te puedo preguntar por qué.
+
+132
+00:06:13,360 --> 00:06:14,520
+El talento no era muy difícil.
+
+133
+00:06:17,700 --> 00:06:18,100
+Ok.
+
+134
+00:06:18,720 --> 00:06:21,160
+¿Cuándo me dices que haces el conteo una
+vez al año, cierto?
+
+135
+00:06:21,480 --> 00:06:21,780
+Sí.
+
+136
+00:06:22,140 --> 00:06:23,100
+El año pasado no lo hice.
+
+137
+00:06:23,340 --> 00:06:24,200
+No, es mentira.
+
+138
+00:06:24,600 --> 00:06:24,920
+Ok.
+
+139
+00:06:24,920 --> 00:06:26,160
+Lo dejé pasar y no lo hice.
+
+140
+00:06:26,420 --> 00:06:27,900
+¿Por qué es como mucho tiempo?
+
+141
+00:06:28,380 --> 00:06:29,820
+¿Qué es lo que pasa con esos conteos?
+
+142
+00:06:29,980 --> 00:06:30,540
+El talento.
+
+143
+00:06:30,960 --> 00:06:31,580
+El talento.
+
+144
+00:06:31,720 --> 00:06:34,720
+O sea, ¿tú sabes cuánto tiempo me tengo
+que hacer un inventario?
+
+145
+00:06:34,820 --> 00:06:38,080
+Una semana, claro. Mucha pérdida.
+
+146
+00:06:39,400 --> 00:06:41,860
+Es grandísimo el tiempo.
+
+147
+00:06:43,120 --> 00:06:45,120
+Ok, bueno, muchísimas gracias.
+
+148
+00:06:45,480 --> 00:06:49,220
+¿Hay algún correo que podamos contactarte,
+bueno, en la universidad, para darnos una
+
+149
+00:06:49,220 --> 00:06:49,820
+calificación?
+
+150
+00:06:54,320 --> 00:06:55,840
+Gracias. ¿Cómo es tu nombre?
+
+151
+00:06:56,040 --> 00:06:56,560
+Cristina B.
+
+152
+00:06:57,000 --> 00:06:58,140
+Cristina B. Mucho gusto.
+
+153
+00:06:58,140 --> 00:06:59,260
+Gracias, Cristina B.
+
+154
+00:06:59,260 --> 00:07:00,260
+Un saludo.
+
+155
+00:07:00,260 --> 00:07:00,420
+Un saludo.
+
+156
+00:07:00,420 --> 00:07:00,600
+Un saludo.
+
+157
+00:07:02,600 --> 00:07:03,360
+Un saludo.
+

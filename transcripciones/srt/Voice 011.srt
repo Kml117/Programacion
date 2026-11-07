@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:16,980
+La Universidad de La Sabana
+
+2
+00:00:17,010 --> 00:00:19,620
+Estamos haciendo una investigación de
+mercado para este sector
+
+3
+00:00:19,620 --> 00:00:21,300
+Tienen 5 minutos para atendernos
+
+4
+00:00:21,300 --> 00:00:30,760
+y más o menos a qué horas podríamos volver
+
+5
+00:00:30,760 --> 00:00:31,820
+y a quién podríamos volver
+
+6
+00:00:31,820 --> 00:00:36,140
+Muchísimas gracias
+
+7
+00:00:36,140 --> 00:00:36,660
+Feliz día
+
+8
+00:00:46,740 --> 00:00:47,880
+Sí
+

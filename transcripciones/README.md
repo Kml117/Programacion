@@ -4,6 +4,7 @@ Transcripción automática en español de 11 grabaciones (≈58 min). Los audios
 
 ## Contenido
 
+- [`resumen_por_empresa.md`](resumen_por_empresa.md): resumen de las entrevistas por negocio.
 - `txt/`: texto plano, una línea por segmento.
 - `srt/`: subtítulos con marcas de tiempo.
 
